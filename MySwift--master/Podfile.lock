@@ -1,0 +1,86 @@
+PODS:
+  - Alamofire (4.9.1)
+  - HandyJSON (5.0.2)
+  - Kingfisher (4.10.1)
+  - LLCycleScrollView (1.5.4):
+    - Kingfisher (<= 4.10.1)
+  - SDWebImage (5.15.4):
+    - SDWebImage/Core (= 5.15.4)
+  - SDWebImage/Core (5.15.4)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.1)
+  - UMAPM (1.8.1)
+  - UMCCommon (7.3.7):
+    - UMAPM
+    - UMDevice
+  - UMCSecurityPlugins (1.0.6)
+  - UMCShare/Core (6.10.2):
+    - UMCCommon
+  - UMCShare/Social/ReducedQQ (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.10.2):
+    - UMCCommon
+    - UMCShare/Core
+  - UMDevice (2.2.1)
+  - WebViewJavascriptBridge (6.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - LLCycleScrollView
+  - SDWebImage
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+  - UMCCommon
+  - UMCSecurityPlugins
+  - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+  - WebViewJavascriptBridge
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - Kingfisher
+    - LLCycleScrollView
+    - SDWebImage
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - UMAPM
+    - UMCCommon
+    - UMCSecurityPlugins
+    - UMCShare
+    - UMDevice
+    - WebViewJavascriptBridge
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  LLCycleScrollView: 77f6e11980d1cd010ee9ee87e94da4e8026ccd21
+  SDWebImage: 1c39de67663e5eebb2f41324d5d580eeea12dd4c
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  UMAPM: 569616d3b4d91c670e6591b2698879286f9fa304
+  UMCCommon: aac337052f23b0e08c0f3cf021d3bb209f2c49bd
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  UMCShare: e14e1399673fa361cddbde3a05b3743e10f673f7
+  UMDevice: 053478c4b4d7292f31f0a275c227d3c4007a5571
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+
+PODFILE CHECKSUM: 0815311dd17ad7b5077e6a904aaa317516703f17
+
+COCOAPODS: 1.11.3
